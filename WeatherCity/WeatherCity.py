@@ -35,7 +35,7 @@ def img(sit):
         binary_img = ImageTk.PhotoImage(changed_img)
 
 ######### First Frame ###########
-entry_frame=Frame(window,bg='#631B0C',bd=1,relief='ridge')
+entry_frame=Frame(window,bg='#008080',bd=1,relief='ridge')
 entry_frame.place(relx=0.08,rely=0.1,relwidth=0.85,relheight=0.15)
 
 # ENTRY  ***************
