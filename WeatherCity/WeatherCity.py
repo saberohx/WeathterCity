@@ -1,5 +1,5 @@
 #! python 3
-#WeatherJSON.py - Load data of weather from OpenWeatherMap.org
+#WeatherCity.py - Load data of weather from OpenWeatherMap.org
 
 import json, requests
 from tkinter import *
